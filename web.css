@@ -1,0 +1,51 @@
+.x {
+   
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Merriweather', serif;
+
+    font-family: 'Playfair Display', serif;
+
+
+}
+.img-thumbnail{
+width:200px;
+height:200px;
+border-radius:50%;
+text-align: center;
+}
+.jumbotron{
+    background-image:url(23676d53987033371f526c5c6eb56150.jpg); 
+    background-position: 0% 25%;
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+}
+.f{
+    margin-right: 40%;
+    margin-left: 40%;
+}
+.rounded {
+    height:7cm ;
+    width:9cm;
+}
+.active{
+    background-color: rgb(46, 43, 43)!important
+}
+ul{
+    list-style-type: none!important;
+}
+   
+.fa{
+    color: white;
+    background:green;
+}
+a:hover{
+    color: rgb(33, 61, 33);
+
+}
+nav:hover{
+    color: rgb(33, 61, 33)!important;
+
+}
